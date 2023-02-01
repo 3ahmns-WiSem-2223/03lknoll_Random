@@ -16,3 +16,5 @@ Seed ist der Startwert und durch diesen erhält man immer die gleiche Zahlenreih
 
 Was macht Random.Range?
 Random.Range gibt einen float aus welcher innerhalb der Maximalen und Minimalen bereich befindet. Die werte der Maximalen und minimalen Zahlen können auch vorkommen. 
+
+Versionen: Unity 2020.3.18f1 VisualStudio 2019
